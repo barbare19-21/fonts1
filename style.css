@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "font1";
+    src: url(/fonts/OldStandardTT-Bold.ttf);
+}
+@font-face {
+    font-family: "font2";
+    src: url(/fonts/OldStandardTT-Italic.ttf);
+}
+@font-face {
+    font-family: "font3";
+    src: url(/fonts/OldStandardTT-Regular.ttf);
+}
+
+h2{
+    font-family: font2;
+}
+.text2{
+    font-family: font2;
+}
+.text3{
+    font-family: font2;
+    text-align: justify;
+
+}
